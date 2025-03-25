@@ -315,9 +315,8 @@ int main()
         } 
     while (choice != 0);
 
-    cout << endl;
+    cout << endl << endl;
     // jhbjhkhjjh
-
     // коммит
     
 }
