@@ -315,7 +315,7 @@ int main()
         } 
     while (choice != 0);
 
-
+    cout << endl;
 
     
 }
